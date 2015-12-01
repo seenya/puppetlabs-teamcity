@@ -4,10 +4,10 @@
   "author": "Sean Fleming",
   "license": "MIT",
   "summary": "Installs TeamCity on windows only.",
-  "source": "https://github.com/seenya/puppet-teamcity",
-  "project_page": "https://github.com/seenya/puppet-teamcity",
-  "issues_url": "https://github.com/seenya/puppet-teamcity/issues",
-  "tags": ["windows", "teamcity"],
+  "source": "https://github.com/seenya/puppetlabs-teamcity",
+  "project_page": "https://github.com/seenya/puppetlabs-teamcity",
+  "issues_url": "https://github.com/seenya/puppetlabs-teamcity/issues",
+  "tags": ["jetbrains", "teamcity"],
   "operatingsystem_support": [
     {
     "operatingsystem":"windows"
